@@ -1,0 +1,56 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# outputs / logs
+*.log
+outputs/
+runs/
+checkpoints/
+weights/
+models/
+results/
+
+# datasets & images & videos
+data/
+dataset/
+datasets/
+images/
+imgs/
+figures/
+figs/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+*.gif
+*.webp
+*.svg
+*.ico
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# archives & big files
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# ML weights
+*.pt
+*.pth
+*.pb
+*.onnx
+*.tflite
+*.engine
+
+# numpy bundles
+*.npz
+*.npy
